@@ -31,4 +31,4 @@ The game will continue until one player wins or the board is full (resulting in 
 Contributions are welcome! I'm just learning Java and if you have any suggestions or improvements for the game, feel free to submit a pull request.
 
 ## License
-This game is licensed under the MIT License. See the [LICENSE](/LICENCE) file for more information.
+This game is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more information.
