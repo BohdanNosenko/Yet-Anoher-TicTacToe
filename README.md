@@ -1,8 +1,8 @@
-## Tic Tac Toe
+# Tic Tac Toe
 
 This is a Java implementation of the classic game of Tic Tac Toe. The game is played on a 3x3 grid where two players take turns placing their marks (X or O) until one player gets three in a row.
 
-# Getting Started
+## Getting Started
 
 To run the game, you will need to have Java installed on your computer. You can download the latest version of Java from the [**official website**](https://www.java.com/en/download/).
 
@@ -22,13 +22,13 @@ java TicTacToe
 
 The game will start in the console window.
 
-# How to Play
+## How to Play
 To make a move, enter the row (0-2) and column (0-2) where you want to place your mark when prompted by the game. The first player is X and the second player is O.
 
 The game will continue until one player wins or the board is full (resulting in a tie).
 
-# Contributing
+## Contributing
 Contributions are welcome! I'm just learning Java and if you have any suggestions or improvements for the game, feel free to submit a pull request.
 
-License
+## License
 This game is licensed under the MIT License. See the [LICENSE](/LICENCE) file for more information.
